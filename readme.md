@@ -493,6 +493,7 @@
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
+- [Data Pipeline](https://github.com/KennethanCeyer/awesome-data-pipeline#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
